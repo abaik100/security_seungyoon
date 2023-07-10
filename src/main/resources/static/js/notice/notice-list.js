@@ -1,4 +1,4 @@
-
+//백승윤
 function getWriteButton(){
 	const listFooter = document.querySelector(".list-footer");
 	
